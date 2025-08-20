@@ -1,2 +1,2 @@
 # 01_DEOlympicsPR
-This is a project to fetch data of olympics and apply some transformation on top the data(cleaning data) and send for analysis 
+This project is focused on data engineering for Olympic Games datasets. It fetches raw Olympics data from various sources, performs essential data cleaning and transformation processes, and prepares the data for further analysis. The main objectives include handling missing or inconsistent records, standardizing formats, and enabling insightful analytics on athletes, events, countries, and medal tallies. Designed as a foundational data pipeline, this project facilitates exploratory analysis, reporting, and machine learning applications related to the Olympics.
